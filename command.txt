@@ -1,0 +1,9 @@
+chmod +x *
+
+./Moin.sh
+
+pip install python-telegram-bot --upgrade
+
+chmod +x *
+
+python3 Moin.py
