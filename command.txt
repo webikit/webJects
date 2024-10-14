@@ -1,0 +1,9 @@
+chmod +x *
+
+./install.sh
+
+pip install pyTelegramBotAPI
+
+chmod +x *
+
+python3 Moin.py
